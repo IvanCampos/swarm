@@ -349,7 +349,7 @@ from swarm.repl import run_demo_loop
 run_demo_loop(agent, stream=True)
 ```
 
-# Core Contributors
+# Core OpenAI Contributors
 
 - Ilan Bigio - [ibigio](https://github.com/ibigio)
 - James Hills - [jhills20](https://github.com/jhills20)
