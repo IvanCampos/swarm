@@ -1,6 +1,6 @@
 ![Swarm AI Logo](https://github.com/user-attachments/assets/94dc7bb6-932d-4201-85b7-24aceb33f66c)
 
-# Swarm (experimental sample)
+# Swarm (experimental fork)
 
 An ergonomic, lightweight multi-agent orchestration framework.
 
