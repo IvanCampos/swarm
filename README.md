@@ -1,4 +1,4 @@
-![Swarm Logo](assets/logo.png)
+![Swarm AI Logo](https://github.com/user-attachments/assets/a1b5bd41-bd76-4c2d-9f2c-1b0f3084724c)
 
 # Swarm (experimental sample)
 
