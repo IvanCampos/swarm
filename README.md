@@ -1,4 +1,4 @@
-![Swarm AI Logo](https://github.com/user-attachments/assets/94dc7bb6-932d-4201-85b7-24aceb33f66c)
+![Swarm AI Logo](https://github.com/user-attachments/assets/6d338993-01c0-424c-a440-e240874a1ba1)
 
 # Swarm (experimental fork)
 
